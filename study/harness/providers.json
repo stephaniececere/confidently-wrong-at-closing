@@ -1,0 +1,11 @@
+{
+  "anthropic/claude-fable-5.1": "anthropic",
+  "anthropic/claude-opus-5.5": "anthropic",
+  "anthropic/claude-sonnet-5.5": "anthropic",
+  "anthropic/claude-haiku-5.5": "anthropic",
+  "openai/gpt-6-astra": "openai",
+  "google/gemini-4-argon": "google-ai-studio",
+  "deepseek/deepseek-v4-pro-0813": "parasail/fp8",
+  "x-ai/grok-4.7": "xai",
+  "moonshotai/kimi-k3.1-pro": "moonshotai/mxfp4"
+}

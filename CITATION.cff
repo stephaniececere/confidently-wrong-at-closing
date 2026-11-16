@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Confidently Wrong at Closing: Do Frontier Models Know When Their Answer Is Wrong, and Will They Defend It?"
+authors:
+  - family-names: Cecere
+    given-names: Stephanie
+year: 2026
+url: "https://github.com/stephaniececere/confidently-wrong-at-closing"
+repository-code: "https://github.com/stephaniececere/confidently-wrong-at-closing"
+license: MIT

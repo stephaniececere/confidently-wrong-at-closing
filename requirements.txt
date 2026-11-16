@@ -1,0 +1,4 @@
+anthropic==1.15.0
+matplotlib==3.11.2
+pillow==12.3.0      # only for eval/harness/render_files.py
+reportlab==5.0.0    # only for eval/harness/render_files.py

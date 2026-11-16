@@ -1,0 +1,962 @@
+[
+ {
+  "id": "msgbatch_01UVpFcNxr8YvaE1Cs544Xqf",
+  "api": "anthropic",
+  "model": "haiku",
+  "items": {
+   "r0": [
+    "cp2_M",
+    "haiku",
+    1
+   ],
+   "r1": [
+    "cp2_M",
+    "haiku",
+    2
+   ],
+   "r2": [
+    "cp2_M",
+    "haiku",
+    3
+   ],
+   "r3": [
+    "cp2_M",
+    "haiku",
+    4
+   ],
+   "r4": [
+    "cp2_M",
+    "haiku",
+    5
+   ],
+   "r5": [
+    "cp4_H",
+    "haiku",
+    1
+   ],
+   "r6": [
+    "cp4_H",
+    "haiku",
+    2
+   ],
+   "r7": [
+    "cp4_H",
+    "haiku",
+    3
+   ],
+   "r8": [
+    "cp4_H",
+    "haiku",
+    4
+   ],
+   "r9": [
+    "cp4_H",
+    "haiku",
+    5
+   ],
+   "r10": [
+    "cp4_M",
+    "haiku",
+    1
+   ],
+   "r11": [
+    "cp4_M",
+    "haiku",
+    2
+   ],
+   "r12": [
+    "cp4_M",
+    "haiku",
+    3
+   ],
+   "r13": [
+    "cp4_M",
+    "haiku",
+    4
+   ],
+   "r14": [
+    "cp4_M",
+    "haiku",
+    5
+   ],
+   "r15": [
+    "cp_H",
+    "haiku",
+    1
+   ],
+   "r16": [
+    "cp_H",
+    "haiku",
+    2
+   ],
+   "r17": [
+    "cp_H",
+    "haiku",
+    3
+   ],
+   "r18": [
+    "cp_H",
+    "haiku",
+    4
+   ],
+   "r19": [
+    "cp_H",
+    "haiku",
+    5
+   ],
+   "r20": [
+    "cp_M",
+    "haiku",
+    1
+   ],
+   "r21": [
+    "cp_M",
+    "haiku",
+    2
+   ],
+   "r22": [
+    "cp_M",
+    "haiku",
+    3
+   ],
+   "r23": [
+    "cp_M",
+    "haiku",
+    4
+   ],
+   "r24": [
+    "cp_M",
+    "haiku",
+    5
+   ],
+   "r25": [
+    "fc_M",
+    "haiku",
+    1
+   ],
+   "r26": [
+    "fc_M",
+    "haiku",
+    2
+   ],
+   "r27": [
+    "fc_M",
+    "haiku",
+    3
+   ],
+   "r28": [
+    "fc_M",
+    "haiku",
+    4
+   ],
+   "r29": [
+    "fc_M",
+    "haiku",
+    5
+   ],
+   "r30": [
+    "rp_M",
+    "haiku",
+    1
+   ],
+   "r31": [
+    "rp_M",
+    "haiku",
+    2
+   ],
+   "r32": [
+    "rp_M",
+    "haiku",
+    3
+   ],
+   "r33": [
+    "rp_M",
+    "haiku",
+    4
+   ],
+   "r34": [
+    "rp_M",
+    "haiku",
+    5
+   ]
+  },
+  "collected": true,
+  "submitted": "2026-11-15T07:50:41",
+  "abandoned": "results stream unreadable; all 35 resubmitted"
+ },
+ {
+  "id": "msgbatch_01AHp5qvY3NKzL1souxxD48k",
+  "api": "anthropic",
+  "model": "sonnet",
+  "items": {
+   "r0": [
+    "cp2_M",
+    "sonnet",
+    1
+   ],
+   "r1": [
+    "cp2_M",
+    "sonnet",
+    2
+   ],
+   "r2": [
+    "cp2_M",
+    "sonnet",
+    3
+   ],
+   "r3": [
+    "cp2_M",
+    "sonnet",
+    4
+   ],
+   "r4": [
+    "cp2_M",
+    "sonnet",
+    5
+   ],
+   "r5": [
+    "cp4_H",
+    "sonnet",
+    1
+   ],
+   "r6": [
+    "cp4_H",
+    "sonnet",
+    2
+   ],
+   "r7": [
+    "cp4_H",
+    "sonnet",
+    3
+   ],
+   "r8": [
+    "cp4_H",
+    "sonnet",
+    4
+   ],
+   "r9": [
+    "cp4_H",
+    "sonnet",
+    5
+   ],
+   "r10": [
+    "cp4_M",
+    "sonnet",
+    1
+   ],
+   "r11": [
+    "cp4_M",
+    "sonnet",
+    2
+   ],
+   "r12": [
+    "cp4_M",
+    "sonnet",
+    3
+   ],
+   "r13": [
+    "cp4_M",
+    "sonnet",
+    4
+   ],
+   "r14": [
+    "cp4_M",
+    "sonnet",
+    5
+   ],
+   "r15": [
+    "cp_H",
+    "sonnet",
+    1
+   ],
+   "r16": [
+    "cp_H",
+    "sonnet",
+    2
+   ],
+   "r17": [
+    "cp_H",
+    "sonnet",
+    3
+   ],
+   "r18": [
+    "cp_H",
+    "sonnet",
+    4
+   ],
+   "r19": [
+    "cp_H",
+    "sonnet",
+    5
+   ],
+   "r20": [
+    "cp_M",
+    "sonnet",
+    1
+   ],
+   "r21": [
+    "cp_M",
+    "sonnet",
+    2
+   ],
+   "r22": [
+    "cp_M",
+    "sonnet",
+    3
+   ],
+   "r23": [
+    "cp_M",
+    "sonnet",
+    4
+   ],
+   "r24": [
+    "cp_M",
+    "sonnet",
+    5
+   ],
+   "r25": [
+    "fc_M",
+    "sonnet",
+    1
+   ],
+   "r26": [
+    "fc_M",
+    "sonnet",
+    2
+   ],
+   "r27": [
+    "fc_M",
+    "sonnet",
+    3
+   ],
+   "r28": [
+    "fc_M",
+    "sonnet",
+    4
+   ],
+   "r29": [
+    "fc_M",
+    "sonnet",
+    5
+   ],
+   "r30": [
+    "rp_M",
+    "sonnet",
+    1
+   ],
+   "r31": [
+    "rp_M",
+    "sonnet",
+    2
+   ],
+   "r32": [
+    "rp_M",
+    "sonnet",
+    3
+   ],
+   "r33": [
+    "rp_M",
+    "sonnet",
+    4
+   ],
+   "r34": [
+    "rp_M",
+    "sonnet",
+    5
+   ]
+  },
+  "collected": true,
+  "submitted": "2026-11-15T07:50:42"
+ },
+ {
+  "id": "msgbatch_01WSpPk9LiLvKrpcWhS2KJ4U",
+  "api": "anthropic",
+  "model": "opus",
+  "items": {
+   "r0": [
+    "cp2_M",
+    "opus",
+    1
+   ],
+   "r1": [
+    "cp2_M",
+    "opus",
+    2
+   ],
+   "r2": [
+    "cp2_M",
+    "opus",
+    3
+   ],
+   "r3": [
+    "cp2_M",
+    "opus",
+    4
+   ],
+   "r4": [
+    "cp2_M",
+    "opus",
+    5
+   ],
+   "r5": [
+    "cp4_H",
+    "opus",
+    1
+   ],
+   "r6": [
+    "cp4_H",
+    "opus",
+    2
+   ],
+   "r7": [
+    "cp4_H",
+    "opus",
+    3
+   ],
+   "r8": [
+    "cp4_H",
+    "opus",
+    4
+   ],
+   "r9": [
+    "cp4_H",
+    "opus",
+    5
+   ],
+   "r10": [
+    "cp4_M",
+    "opus",
+    1
+   ],
+   "r11": [
+    "cp4_M",
+    "opus",
+    2
+   ],
+   "r12": [
+    "cp4_M",
+    "opus",
+    3
+   ],
+   "r13": [
+    "cp4_M",
+    "opus",
+    4
+   ],
+   "r14": [
+    "cp4_M",
+    "opus",
+    5
+   ],
+   "r15": [
+    "cp_H",
+    "opus",
+    1
+   ],
+   "r16": [
+    "cp_H",
+    "opus",
+    2
+   ],
+   "r17": [
+    "cp_H",
+    "opus",
+    3
+   ],
+   "r18": [
+    "cp_H",
+    "opus",
+    4
+   ],
+   "r19": [
+    "cp_H",
+    "opus",
+    5
+   ],
+   "r20": [
+    "cp_M",
+    "opus",
+    1
+   ],
+   "r21": [
+    "cp_M",
+    "opus",
+    2
+   ],
+   "r22": [
+    "cp_M",
+    "opus",
+    3
+   ],
+   "r23": [
+    "cp_M",
+    "opus",
+    4
+   ],
+   "r24": [
+    "cp_M",
+    "opus",
+    5
+   ],
+   "r25": [
+    "fc_M",
+    "opus",
+    1
+   ],
+   "r26": [
+    "fc_M",
+    "opus",
+    2
+   ],
+   "r27": [
+    "fc_M",
+    "opus",
+    3
+   ],
+   "r28": [
+    "fc_M",
+    "opus",
+    4
+   ],
+   "r29": [
+    "fc_M",
+    "opus",
+    5
+   ],
+   "r30": [
+    "rp_M",
+    "opus",
+    1
+   ],
+   "r31": [
+    "rp_M",
+    "opus",
+    2
+   ],
+   "r32": [
+    "rp_M",
+    "opus",
+    3
+   ],
+   "r33": [
+    "rp_M",
+    "opus",
+    4
+   ],
+   "r34": [
+    "rp_M",
+    "opus",
+    5
+   ]
+  },
+  "collected": true,
+  "submitted": "2026-11-15T07:50:44"
+ },
+ {
+  "id": "msgbatch_01LB6kwMqJfyuEZZRvE1ARtc",
+  "api": "anthropic",
+  "model": "fable",
+  "items": {
+   "r0": [
+    "cp2_M",
+    "fable",
+    1
+   ],
+   "r1": [
+    "cp2_M",
+    "fable",
+    2
+   ],
+   "r2": [
+    "cp2_M",
+    "fable",
+    3
+   ],
+   "r3": [
+    "cp2_M",
+    "fable",
+    4
+   ],
+   "r4": [
+    "cp2_M",
+    "fable",
+    5
+   ],
+   "r5": [
+    "cp4_H",
+    "fable",
+    1
+   ],
+   "r6": [
+    "cp4_H",
+    "fable",
+    2
+   ],
+   "r7": [
+    "cp4_H",
+    "fable",
+    3
+   ],
+   "r8": [
+    "cp4_H",
+    "fable",
+    4
+   ],
+   "r9": [
+    "cp4_H",
+    "fable",
+    5
+   ],
+   "r10": [
+    "cp4_M",
+    "fable",
+    1
+   ],
+   "r11": [
+    "cp4_M",
+    "fable",
+    2
+   ],
+   "r12": [
+    "cp4_M",
+    "fable",
+    3
+   ],
+   "r13": [
+    "cp4_M",
+    "fable",
+    4
+   ],
+   "r14": [
+    "cp4_M",
+    "fable",
+    5
+   ],
+   "r15": [
+    "cp_H",
+    "fable",
+    1
+   ],
+   "r16": [
+    "cp_H",
+    "fable",
+    2
+   ],
+   "r17": [
+    "cp_H",
+    "fable",
+    3
+   ],
+   "r18": [
+    "cp_H",
+    "fable",
+    4
+   ],
+   "r19": [
+    "cp_H",
+    "fable",
+    5
+   ],
+   "r20": [
+    "cp_M",
+    "fable",
+    1
+   ],
+   "r21": [
+    "cp_M",
+    "fable",
+    2
+   ],
+   "r22": [
+    "cp_M",
+    "fable",
+    3
+   ],
+   "r23": [
+    "cp_M",
+    "fable",
+    4
+   ],
+   "r24": [
+    "cp_M",
+    "fable",
+    5
+   ],
+   "r25": [
+    "fc_M",
+    "fable",
+    1
+   ],
+   "r26": [
+    "fc_M",
+    "fable",
+    2
+   ],
+   "r27": [
+    "fc_M",
+    "fable",
+    3
+   ],
+   "r28": [
+    "fc_M",
+    "fable",
+    4
+   ],
+   "r29": [
+    "fc_M",
+    "fable",
+    5
+   ],
+   "r30": [
+    "rp_M",
+    "fable",
+    1
+   ],
+   "r31": [
+    "rp_M",
+    "fable",
+    2
+   ],
+   "r32": [
+    "rp_M",
+    "fable",
+    3
+   ],
+   "r33": [
+    "rp_M",
+    "fable",
+    4
+   ],
+   "r34": [
+    "rp_M",
+    "fable",
+    5
+   ]
+  },
+  "collected": true,
+  "submitted": "2026-11-15T07:50:45"
+ },
+ {
+  "id": "msgbatch_01XyyAy1Jqchu3jAGDmFn3ba",
+  "api": "anthropic",
+  "model": "haiku",
+  "items": {
+   "r0": [
+    "cp2_M",
+    "haiku",
+    1
+   ],
+   "r1": [
+    "cp2_M",
+    "haiku",
+    2
+   ],
+   "r2": [
+    "cp2_M",
+    "haiku",
+    3
+   ],
+   "r3": [
+    "cp2_M",
+    "haiku",
+    4
+   ],
+   "r4": [
+    "cp2_M",
+    "haiku",
+    5
+   ],
+   "r5": [
+    "cp4_H",
+    "haiku",
+    1
+   ],
+   "r6": [
+    "cp4_H",
+    "haiku",
+    2
+   ],
+   "r7": [
+    "cp4_H",
+    "haiku",
+    3
+   ],
+   "r8": [
+    "cp4_H",
+    "haiku",
+    4
+   ],
+   "r9": [
+    "cp4_H",
+    "haiku",
+    5
+   ],
+   "r10": [
+    "cp4_M",
+    "haiku",
+    1
+   ],
+   "r11": [
+    "cp4_M",
+    "haiku",
+    2
+   ],
+   "r12": [
+    "cp4_M",
+    "haiku",
+    3
+   ],
+   "r13": [
+    "cp4_M",
+    "haiku",
+    4
+   ],
+   "r14": [
+    "cp4_M",
+    "haiku",
+    5
+   ],
+   "r15": [
+    "cp_H",
+    "haiku",
+    1
+   ],
+   "r16": [
+    "cp_H",
+    "haiku",
+    2
+   ],
+   "r17": [
+    "cp_H",
+    "haiku",
+    3
+   ],
+   "r18": [
+    "cp_H",
+    "haiku",
+    4
+   ],
+   "r19": [
+    "cp_H",
+    "haiku",
+    5
+   ],
+   "r20": [
+    "cp_M",
+    "haiku",
+    1
+   ],
+   "r21": [
+    "cp_M",
+    "haiku",
+    2
+   ],
+   "r22": [
+    "cp_M",
+    "haiku",
+    3
+   ],
+   "r23": [
+    "cp_M",
+    "haiku",
+    4
+   ],
+   "r24": [
+    "cp_M",
+    "haiku",
+    5
+   ],
+   "r25": [
+    "fc_M",
+    "haiku",
+    1
+   ],
+   "r26": [
+    "fc_M",
+    "haiku",
+    2
+   ],
+   "r27": [
+    "fc_M",
+    "haiku",
+    3
+   ],
+   "r28": [
+    "fc_M",
+    "haiku",
+    4
+   ],
+   "r29": [
+    "fc_M",
+    "haiku",
+    5
+   ],
+   "r30": [
+    "rp_M",
+    "haiku",
+    1
+   ],
+   "r31": [
+    "rp_M",
+    "haiku",
+    2
+   ],
+   "r32": [
+    "rp_M",
+    "haiku",
+    3
+   ],
+   "r33": [
+    "rp_M",
+    "haiku",
+    4
+   ],
+   "r34": [
+    "rp_M",
+    "haiku",
+    5
+   ]
+  },
+  "collected": true,
+  "submitted": "2026-11-15T08:11:19"
+ },
+ {
+  "id": "msgbatch_01HiWVZUkqmbcfWghhGA3Lat",
+  "api": "anthropic",
+  "model": "sonnet",
+  "items": {
+   "r0": [
+    "cp4_H",
+    "sonnet",
+    3
+   ],
+   "r1": [
+    "cp4_M",
+    "sonnet",
+    2
+   ],
+   "r2": [
+    "cp_H",
+    "sonnet",
+    2
+   ],
+   "r3": [
+    "fc_M",
+    "sonnet",
+    1
+   ],
+   "r4": [
+    "fc_M",
+    "sonnet",
+    3
+   ],
+   "r5": [
+    "rp_M",
+    "sonnet",
+    3
+   ]
+  },
+  "collected": true,
+  "submitted": "2026-11-15T08:43:36"
+ }
+]
